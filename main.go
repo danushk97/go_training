@@ -1,7 +1,7 @@
-package main
+package ola
 
 import "github.com/danushk97/go_training/hello"
 
-func main() {
+func Ola() {
 	hello.Hello()
 }
